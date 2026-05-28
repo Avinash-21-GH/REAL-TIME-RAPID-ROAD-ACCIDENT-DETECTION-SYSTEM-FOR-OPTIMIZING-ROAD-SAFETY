@@ -1,0 +1,18 @@
+
+PROJECT DEMO VIDEO FLOW (3-5 Minutes)
+
+1. Open VS Code project folder
+2. Show project structure
+3. Open terminal
+4. Install requirements
+5. Run: python app.py
+6. Open localhost in browser
+7. Explain:
+   - Vehicle detection
+   - Bounding boxes
+   - Accident detection
+   - Confidence percentage
+   - Dashboard updates
+8. Show accident detected frame
+9. Explain alert mechanism
+10. End with project conclusion
